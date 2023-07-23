@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Busan</string>
+
+    // 정류소의 상하행에 따른 bstopId
+    // 부산역
+    <string name="busanStation_up">173640301</string>
+    <string name="busanStation_down">173640301</string>
+
+
+    // 송도해수욕장
+    <string name="songdoBeach_up">175880101</string>
+    <string name="songdoBeach_down">174680301</string>
+
+
+    // 암남공원
+    <string name="amnamPark_up">175700301</string>
+    <string name="amnamPark_down">212530103</string>
+
+    // 감천문화마을
+    <string name="gamcheonCultureVillage_up">175570201</string>
+    <string name="gamcheonCultureVillage_down">212530102</string>
+
+    // 다대포해수욕장
+    <string name="dadepoBeach_up">175540201</string>
+    <string name="dadepoBeach_down">175540201</string>
+
+    // 아미산 전망대
+    <string name="amisanObservatory_up">175530301</string>
+    <string name="amisanObservatory_down">175110101</string>
+
+    // 부네치아 장림항
+    <string name="bunechiaJangnimPort_up">175520201</string>
+    <string name="bunechiaJangnimPort_down">175520201</string>
+
+    // 부산현대미술관
+    <string name="busanMuseumOfArt_up">174700401</string>
+    <string name="busanMuseumOfArt_down">174700401</string>
+
+    // 낙동강 하구 에코센터
+    <string name="nakdongRiverEstuaryEcocenter_up">175850301</string>
+    <string name="nakdongRiverEstuaryEcocenter_down">175850301</string>
+
+    // 석당박물관
+    <string name="seokdangMuseum_up">174390202</string>
+    <string name="seokdangMuseum_down">174390202</string>
+
+    // 국제시장
+    <string name="internationalMarket_up">175850302</string>
+    <string name="internationalMarket_down">174390201</string>
+
+    // 용두산 공원
+    <string name="yongdusanPark_up">174390204</string>
+    <string name="yongdusanPark_down">174390301</string>
+
+
+
+</resources>
