@@ -1,3 +1,3 @@
 # busan-bus
 
-This repository contains code for Android App-Canbus, the Bus Service for visually impaired.
+This repository contains the code for the Canbus app, a bus service for blind people visiting or living in Busan.
